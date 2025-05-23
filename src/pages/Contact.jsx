@@ -44,7 +44,7 @@ const Contact = () => {
     setIsSubmitting(true);
 
     try {
-      const response = await fetch("https://irahozadaniel.netlify.app/contact", {
+      const response = await fetch("https://backend-j53n.onrender.com/contact", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
