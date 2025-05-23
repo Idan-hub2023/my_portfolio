@@ -44,7 +44,7 @@ function About() {
                                         <img 
                                             src="/dan.jpg" 
                                             alt="Profile" 
-                                            className="w-24 h-24 object-contain transform group-hover:scale-110 transition-transform duration-300"
+                                            className=" rounded-full object-contain transform group-hover:scale-110 transition-transform duration-300"
                                         />
                                     </div>
                                     

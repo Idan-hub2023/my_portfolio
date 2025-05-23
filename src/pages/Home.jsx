@@ -78,7 +78,7 @@ const Home = () => {
               <img 
                 src="/dan.jpg" 
                 alt="Irahoza Daniel" 
-                className="w-full h-full object-contain p-8"
+                className="rounded-full object-contain p-8"
               />
             </div>
             <div className="absolute -bottom-5 -right-5 bg-white px-4 py-2 rounded-full shadow-md">
