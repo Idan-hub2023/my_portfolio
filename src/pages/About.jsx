@@ -42,7 +42,7 @@ function About() {
                                 <div className="relative bg-white p-8 rounded-3xl shadow-2xl border border-gray-100">
                                     <div className="w-48 h-48 mx-auto bg-gradient-to-br from-blue-100 to-purple-100 rounded-2xl flex items-center justify-center overflow-hidden group">
                                         <img 
-                                            src="/vite.svg" 
+                                            src="/dan.jpg" 
                                             alt="Profile" 
                                             className="w-24 h-24 object-contain transform group-hover:scale-110 transition-transform duration-300"
                                         />

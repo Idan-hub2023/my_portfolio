@@ -76,7 +76,7 @@ const Home = () => {
           <div className="relative">
             <div className="w-64 h-64 sm:w-80 sm:h-80 rounded-full bg-gradient-to-br from-blue-100 to-blue-300 overflow-hidden shadow-xl">
               <img 
-                src="/vite.svg" 
+                src="/dan.jpg" 
                 alt="Irahoza Daniel" 
                 className="w-full h-full object-contain p-8"
               />
